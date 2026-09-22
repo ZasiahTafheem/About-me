@@ -1,6 +1,7 @@
 # Assalamu Alaikum. I am Zasiah Tafheem. 
  
 🎓 PhD Student at Queensland University of Technology (QUT), Brisbane, Australia
+
 🔬 HD Researcher | Civil & Structural Engineer | Data Analytics Enthusiast
  
 ## 👨‍🔬 Research Interests
@@ -14,7 +15,6 @@
 - Life-Cycle Cost and Sustainability Assessment
  
 ## 💻 Technical Skills
- 
 ### Programming 
 - Python
 - C++
@@ -38,10 +38,8 @@
 - Advanced Excel
 - Machine Learning
 - Python (seaborn, Scikit-learn)
-
  
 ## 🚀 Current Goals
- 
 - Build  Data Analytics Portfolio Projects
 - Publish high-quality journal papers (Q1-D1)
 - Apply Python and SQL in research workflows
@@ -49,5 +47,4 @@
 - Develop expertise in sustainable structural engineering
   
 ## 📫 Connect With Me
-
 - Email: tafheemzasiah@gmail.com
