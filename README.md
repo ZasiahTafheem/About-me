@@ -5,7 +5,6 @@
 🔬 HD Researcher | Civil & Structural Engineer | Data Analytics Enthusiast
  
 ## 👨‍🔬 Research Interests
- 
 - FRP Composite Columns
 - Double-Skin Tubular Columns (DSTC)
 - Impact Resistance under Vehicular Collision
@@ -43,7 +42,7 @@
 - Build  Data Analytics Portfolio Projects
 - Publish high-quality journal papers (Q1-D1)
 - Apply Python and SQL in research workflows
-- Using Machine Learning for Experimental Data Analysis and Predictive Modeling
+- Use Machine Learning for Experimental Data Analysis and Predictive Modeling
 - Develop expertise in sustainable structural engineering
   
 ## 📫 Connect With Me
