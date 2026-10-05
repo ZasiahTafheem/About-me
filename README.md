@@ -33,6 +33,7 @@
 ## 📊 Currently Learning
 - SQL
 - Advanced Excel
+- Power BI
 - Machine Learning
 - Python (seaborn, Scikit-learn)
  
