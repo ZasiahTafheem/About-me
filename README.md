@@ -38,12 +38,6 @@
 - Machine Learning
 - Python (seaborn, Scikit-learn)
  
-## 🚀 Current Goals
-- Build  Data Analytics Portfolio Projects
-- Publish high-quality journal papers (Q1-D1)
-- Apply Python and SQL in research workflows
-- Use Machine Learning for Experimental Data Analysis and Predictive Modeling
-- Develop expertise in sustainable structural engineering
   
 ## 📫 Connect With Me
 - Email: tafheemzasiah@gmail.com
