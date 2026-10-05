@@ -20,9 +20,7 @@
  
 ### Data Analysis & Visualization Tools
 - Excel
-- SQL
 - Pandas
-- NumPy
 - Matplotlib
  
 ### Research Tools
@@ -38,6 +36,5 @@
 - Machine Learning
 - Python (seaborn, Scikit-learn)
  
-  
 ## 📫 Connect With Me
 - Email: tafheemzasiah@gmail.com
