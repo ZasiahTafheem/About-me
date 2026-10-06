@@ -24,8 +24,12 @@
 - Matplotlib
  
 ### Research Tools
+- ANSYS
+- ABAQUS
 - Scopus
 - ProQuest
+- GOOGLE Scholar
+- EBSCoHost
 - Mendeley
 - Zotero
 - VOSviewer
