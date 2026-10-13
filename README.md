@@ -2,17 +2,19 @@
 
 🎓 HDR Researcher in Civil & Structural Engineering | Queensland University of Technology (QUT)  
 📍 Brisbane, Australia  
-🔬 Researcher | 📊 Data Analytics Enthusiast | 🐍 Python Learner
+🔬 Researcher | 📊 Data Analytics Enthusiast | 🐍 Python, Data analytics Learner
 
 Passionate about advancing resilient and sustainable infrastructure through research, engineering analysis, and data-driven decision-making.
 
 ---
+
 ## 🔬 Research Interests
 
 🌍 Earthquake Engineering │ 🌉 Bridge Engineering │ 🧱 RC Wall Openings
 🔩 Structural Steel Joints │ 🏗️ Composite Structural Systems │ 🧪 Concrete Technology
 ♻️ Sustainability in Construction │ 📈 Structural Dynamics │ 🛡️ Impact Engineering
 🚗 Vehicle Impact Analysis │ 🌿 Sustainable Concrete │ 📊 Reliability-Based Design
+
 ---
 
 ## 🚀 Current Focus
@@ -38,7 +40,9 @@ Passionate about advancing resilient and sustainable infrastructure through rese
 🎓 Google Scholar │ 📚 VOSviewer │ 📝 Mendeley │ 📖 Zotero
 
 ### Visualization & Design
+
 🎨 Canva │ ✏️ Adobe Illustrator │ 📐 AutoCAD │ 🖼️ SketchUp │ 📈 Matplotlib │ 📊 Power BI 
+
 ---
 
 ## 📂 Featured Projects
@@ -61,7 +65,9 @@ Bridge seismic analysis using:
 ## 🌐 Connect With Me
 
 🔗 Linktree: https://linktr.ee/Zasiah_Tafheem
+
 📧 Email: tafheemzasiah@gmail.com
+
 ---
 ## 📊 Currently Learning
 - SQL
